@@ -1,7 +1,3 @@
-# go-rpm-macros - rawhide branch
+# go-rpm-macros
 
-This repository contains the frozen state of the repository.
-Its history is cleared. It is used only for static code
-analysis with Codacy.
-
-Commit Time: 1729820070
+The go-rpm-macros package
